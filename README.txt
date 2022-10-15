@@ -6,3 +6,5 @@ se iran actualizando utilizando branches dentro de git
 
 Nombre del alumno: Kheri Saúl Chavira Leal
 Fecha de hoy: 10/15/2022
+
+CAMBIO REALIZADO DESDE GITHUB
